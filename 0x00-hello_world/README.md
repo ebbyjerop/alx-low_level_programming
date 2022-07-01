@@ -6,3 +6,4 @@ hello,puts
 hello,print
 size
 intel
+quote
