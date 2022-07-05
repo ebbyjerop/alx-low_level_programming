@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include "main.h"
+#include <stdio.h>
 /**
  * positive_or_negative - main block
  * @i: Get a random number and print the number
